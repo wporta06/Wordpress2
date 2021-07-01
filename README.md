@@ -1,1 +1,1 @@
-# Wordpress2
+# Wordpress2 (ecom website)
